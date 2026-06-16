@@ -220,7 +220,65 @@ const FamilyMemberHome = () => {
 
 </MapContainer>
 ```
+<div className="bg-white rounded-3xl p-6 shadow-md">
 
+  <h3 className="text-xl font-bold mb-5">
+    Tracking Details
+  </h3>
+
+  <div className="space-y-4">
+
+    <div>
+      <p className="text-slate-500">
+        Current Speed
+      </p>
+      <p className="font-bold text-xl">
+        2.1 km/h
+      </p>
+    </div>
+
+    <div>
+      <p className="text-slate-500">
+        Last Movement
+      </p>
+      <p className="font-bold">
+        5 minutes ago
+      </p>
+    </div>
+
+    <div>
+      <p className="text-slate-500">
+        Tracking Status
+      </p>
+
+      <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
+        Active
+      </span>
+    </div>
+
+  </div>
+
+</div>
+
+<div className="bg-white rounded-3xl p-6 shadow-md">
+
+  <h3 className="text-xl font-bold mb-4">
+    🛡 Safe Zone Status
+  </h3>
+
+  <div className="bg-green-50 border border-green-200 rounded-2xl p-4">
+
+    <h4 className="font-semibold text-green-700">
+      Inside Safe Zone
+    </h4>
+
+    <p className="text-slate-500 mt-2">
+      No alerts triggered.
+    </p>
+
+  </div>
+
+</div>
   </div>
 
   <div className="mt-4 grid grid-cols-2 gap-3">
