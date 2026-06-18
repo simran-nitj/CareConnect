@@ -2,8 +2,6 @@
 
 ### Protecting Seniors, Connecting Care
 
-![CareConnect Architecture](YOUR_IMAGE_LINK)
-
 ## 📖 About
 
 CareConnect is an AI-powered safety and welfare platform designed for senior citizens. It helps protect elderly users from cyber fraud, provides instant emergency assistance, enables family connectivity, and supports daily well-being monitoring through an intelligent and user-friendly ecosystem.
