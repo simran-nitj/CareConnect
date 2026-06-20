@@ -491,4 +491,8 @@ return ( <div className="p-6 bg-gradient-to-br from-slate-50 via-teal-50 to-cyan
 );
 };
 
+<<<<<<< HEAD
 export default LocationDetails;
+=======
+export default LocationDetails;
+>>>>>>> 14588104948233b8a4a23d2231641e27f47f8a8f

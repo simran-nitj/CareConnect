@@ -159,4 +159,8 @@ const MyAlerts = () => {
   );
 };
 
+<<<<<<< HEAD
 export default MyAlerts;
+=======
+export default MyAlerts;
+>>>>>>> 14588104948233b8a4a23d2231641e27f47f8a8f
